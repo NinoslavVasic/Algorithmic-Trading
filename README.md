@@ -1,9 +1,13 @@
+![image](bermuda.png)
+
+
+
 # p2_team4
 Columbia Finance
 
 
 ## Team Members
-Roger Hahn , Pedro, Nino Vasic, Troy Drazien
+Roger Hahn, Pedro, Nino Vasic, Troy Draizen
 
 
 ## Description
