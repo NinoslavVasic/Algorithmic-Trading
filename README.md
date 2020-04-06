@@ -6,7 +6,7 @@ Bermuda
 
 
 ## Team Members
-Roger Hahn, Pedro, Nino Vasic, Troy Draizen
+Roger Hahn, Pedro, Ninoslav Vasic, Troy Draizen
 
 
 ## Description
