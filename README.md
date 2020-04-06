@@ -2,7 +2,7 @@
 ![image](bermuda.PNG)
 
 # p2_team4
-Columbia Finance
+Bermuda 
 
 
 ## Team Members
