@@ -22,4 +22,4 @@ Twitter, IEXFinance, Fred, Polygon, newsapi, reuters, yfinance
 
 ## Candidate ML or Statistical Models to Explore
 
-ARIMA for time series, Deep Learning, NLTL for sentiment analysis
+Deep Learning, NLTK for sentiment analysis, Polynomials from sklearn
