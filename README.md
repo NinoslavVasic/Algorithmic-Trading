@@ -1,2 +1,2 @@
 
-![](https://github.com/rhahn28/p2_team4/blob/master/Trading%20Spaces%20LTSM%20for%20SPY.pptx)
+![](https://docs.google.com/presentation/d/1vJ9D4daKFtoARUYg_dJeyjknKUUHTtCr/edit#slide=id.p1)
