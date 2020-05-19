@@ -6,6 +6,7 @@
 * Modeling: 'https://github.com/NinoslavVasic/Algorithmic-Trading/blob/master/Troy/TheModel.ipynb'
 * Sentiment analysis NLP vs LSTM: 'https://github.com/NinoslavVasic/Algorithmic-Trading/blob/master/Final%20-%20NLP%20sentiment%20analysis%20and%20LSTM.ipynb'
 * Retaled technical analysis: 'https://github.com/NinoslavVasic/Algorithmic-Trading/tree/master/Technicals'
+* AWS Sagemaker end point: 'https://sp500-bermuda-3.s3.us-east-2.amazonaws.com/index_roger_test.html'
 
 
 ## Presentation
