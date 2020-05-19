@@ -1,3 +1,6 @@
+
+# TRADING SPACES LSTM FOR SPY
+
 ## Final documents
 
 * Modeling: 'https://github.com/NinoslavVasic/Algorithmic-Trading/blob/master/Troy/TheModel.ipynb'
