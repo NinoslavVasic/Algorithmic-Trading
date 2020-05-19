@@ -8,7 +8,7 @@
 * Retaled technical analysis: 'https://github.com/NinoslavVasic/Algorithmic-Trading/tree/master/Technicals'
 * AWS Sagemaker end-point: 'https://sp500-bermuda-3.s3.us-east-2.amazonaws.com/index_roger_test.html'
 
-NOTE: AWS endpoint disconnected 2 weeks after project deployment - cost related)
+NOTE: AWS endpoint disconnected 2 weeks after project deployment 
 
 ## Presentation
 
